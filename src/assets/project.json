@@ -1,0 +1,99 @@
+[
+  {
+    "name": "OnFinality Unified NFT API",
+    "company": "SubQuery",
+    "description": "Open sourced project, main developer",
+    "date": "May 2023 - Jul 2023",
+    "links" : [
+      "https://github.com/OnFinality-io/api-nft"
+    ]
+  },
+  {
+    "name": "SubQuery SDK (SUBQL)",
+    "company": "SubQuery",
+    "description": "Open sourced project",
+    "date": "May 2022 - Ongoing",
+    "links" : [
+      "https://github.com/subquery/subql",
+      "https://github.com/subquery/subql-ethereum",
+      "https://github.com/subquery/subql-cosmos",
+      "https://github.com/subquery/subql-algorand",
+      "https://github.com/subquery/subql-near"
+    ]
+  },
+  {
+    "name": "SubQuery Nextgen",
+    "company": "SubQuery",
+    "description": "Still in beta",
+    "date": "Sep 2022 - Ongoing",
+    "links" : [
+      "https://github.com/subquery/subql-nextgen"
+    ]
+  },
+  {
+    "name": "Datasource writer",
+    "company": "SubQuery",
+    "description": "ETL with Apache Flink",
+    "date": "Mar 2023 - Ongoing",
+    "links" : [
+      "https://github.com/subquery/datasource-writer"
+    ]
+  },
+  {
+    "name": "SubQuery Starter Projects",
+    "company": "SubQuery",
+    "description": "Open sourced project, boilerplates for SubQuery SDKs",
+    "date": "May 2022 - Ongoing",
+    "links" : [
+      "https://github.com/subquery/subql-starter",
+      "https://github.com/subquery/cosmos-subql-starter",
+      "https://github.com/subquery/ethereum-subql-starter",
+      "https://github.com/subquery/algorand-subql-starter"
+    ]
+  },
+  {
+    "name": "Two Truths One Lie",
+    "company": "Freelance",
+    "description": "Commissioned work by auckland-based artist, Daryl Chin",
+    "date": "Jan 2022 - Feb 2022",
+    "links" : [
+      "https://github.com/bz888/2-truth-1-lie"
+    ]
+  },
+  {
+    "name": "Afternewmedia",
+    "company": "Freelance",
+    "description": "Commissioned work by auckland-based artist, William Linscott",
+    "date": "Jan 2022 - Mar 2022",
+    "links" : [
+      "https://github.com/bz888/0-views"
+    ]
+  },
+  {
+    "name": "SideScroller",
+    "company": "Graduation Project - EDA",
+    "description": "Graduation project for EDA, retro side scroll game",
+    "date": "Nov 2021 - Nov 2021",
+    "links" : [
+      "https://github.com/bz888/side-scroller"
+    ]
+  },
+  {
+    "name": "BrainFuck Interpreter",
+    "company": "Personal Project",
+    "description": "A javascript interpreter for the language brainFuck",
+    "date": "Mar 2022 - Mar 2022",
+    "links" : [
+      "https://github.com/bz888/brainfck-compiler"
+    ]
+  },
+  {
+    "name": "Super To do list",
+    "company": "Personal Project",
+    "description": "Over complicated to-do list, made with the purpose of learning new packages and languages",
+    "date": "Apr 2022 - May 2022",
+    "links" : [
+      "https://github.com/bz888/to-do-list"
+    ]
+  }
+]
